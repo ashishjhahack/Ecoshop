@@ -1,6 +1,6 @@
 import React from "react";
 import Title from "../components/Title";
-import NewsLetterBox from "../components/NewsLetterBox";
+import NewsletterBox from "../components/NewsletterBox";
 import { assets } from "../assets/assets";
 
 const About = () => {
@@ -50,7 +50,7 @@ const About = () => {
         </div>
       </div>
 
-      <NewsLetterBox />
+      <NewsletterBox />
     </div>
   );
 };
